@@ -36,9 +36,9 @@
 					</tr>
 				</thead>
 				<tr ng-repeat="friend in acct.friends">
-					<tr>&nbsp;</tr>
-					<tr>{{friend.name}}</tr>
-					<tr>{{friend.birthMonth}} {{friend.birthDay}}</tr>
+					<td>&nbsp;</td>
+					<td>{{friend.name}}</td>
+					<td>{{friend.birthMonth}} {{friend.birthDay}}</td>
 				</tr>
 			</table>
 		</div>

@@ -6,7 +6,7 @@ angular.module("birthdays")
 		$scope.acct.friends = [];
 		$scope.acct.friends.push({
 			name: "Sally",
-			birthMonth: "11",
+			birthMonth: "November ",
 			birthDay: "1",
 			id: 1
 		});
@@ -20,6 +20,6 @@ angular.module("birthdays")
 		}
 		
 		$scope.closeFriendsTab = function() {
-			$scopefriendsTabOpen = false;
+			$scope.friendsTabOpen = false;
 		}
 	});
