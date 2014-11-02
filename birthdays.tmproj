@@ -3,34 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>app.jsp</string>
+	<string>app.js</string>
 	<key>documents</key>
 	<array>
 		<dict>
 			<key>filename</key>
 			<string>app.js</string>
 			<key>lastUsed</key>
-			<date>2014-11-02T02:51:00Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>app.jsp</string>
-			<key>lastUsed</key>
-			<date>2014-11-02T02:51:00Z</date>
+			<date>2014-11-02T05:29:43Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
 		<dict>
 			<key>filename</key>
+			<string>app.html</string>
+		</dict>
+		<dict>
+			<key>filename</key>
 			<string>birthdays.tmproj</string>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>bootstrap-theme.css</string>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>bootstrap.css</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -53,6 +43,8 @@
 		<dict>
 			<key>filename</key>
 			<string>readme.md</string>
+			<key>lastUsed</key>
+			<date>2014-11-02T05:29:02Z</date>
 		</dict>
 		<dict>
 			<key>expanded</key>
@@ -74,23 +66,9 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>14</integer>
+				<integer>36</integer>
 				<key>line</key>
-				<integer>3</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>app.jsp</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>31</integer>
-				<key>line</key>
-				<integer>10</integer>
+				<integer>4</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -111,21 +89,35 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>views/login.jsp</key>
+		<key>readme.md</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>5</integer>
+				<integer>13</integer>
 				<key>line</key>
-				<integer>1</integer>
+				<integer>4</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>views/main.jsp</key>
+		<key>views/friend.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>views/main.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -142,10 +134,10 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>app.jsp</string>
+		<string>readme.md</string>
 		<string>app.js</string>
-		<string>views/login.jsp</string>
-		<string>views/main.jsp</string>
+		<string>views/friend.html</string>
+		<string>views/main.html</string>
 		<string>controllers/birthdays.js</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
